@@ -600,21 +600,6 @@ I enjoy building complete software systems—from networking and operating syste
 
 ---
 
-# ⭐ Repository
-
-<div align="center">
-
-### If you find this research useful:
-
-**⭐ Star the repository**
-**🍴 Fork the project**
-**📚 Cite the research**
-**💡 Build upon the findings**
-
-</div>
-
----
-
 # 📜 Disclaimer
 
 This repository contains research materials and statistical outputs associated with an academic research study. The statistical results presented in this README reflect the supplied research outputs and should be interpreted within the study's sample, methodology, measurement design, and stated limitations.
@@ -647,6 +632,20 @@ This repository contains research materials and statistical outputs associated w
 </a>
 
 </p>
+
+---
+# ⭐ Repository
+
+<div align="center">
+
+### If you find this research useful:
+
+**⭐ Star the repository**
+**🍴 Fork the project**
+**📚 Cite the research**
+**💡 Build upon the findings**
+
+</div>
 
 ---
 
