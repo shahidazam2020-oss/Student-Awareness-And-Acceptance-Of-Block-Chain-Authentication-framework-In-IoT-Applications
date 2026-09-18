@@ -579,8 +579,6 @@ Potential extensions of this research include:
 
 # 👨‍💻 Author
 
-<div align="center">
-
 ## Shahid Azam
 
 **MS Computer Science Student**
@@ -599,7 +597,6 @@ I enjoy building complete software systems—from networking and operating syste
 
 📊 Data Analysis • 🔬 Research • 🤖 Machine Learning • 🔐 Cybersecurity • 🌐 IoT
 
-</div>
 
 ---
 
