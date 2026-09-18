@@ -1,0 +1,101 @@
+Age,Gender,Level of Study,Academic Program,Year of Study,Blockchain Knowledge,Understanding of IoT,SA1,SA2,SA3,SA4,SA5,PEU1,PEU2,PEU3,PEU4,PEU5,PSB1,PSB2,PSB3,PSB4,PSB5,PU1,PU2,PU3,PU4,PU5,ACC1,ACC2,ACC3,ACC4,ACC5,SA,PEU,PSB,PU,ACC
+Above 30,Male,Postgraduate (Master?s),Other,4th Year or above,Yes,Good,4,3,4,3,4,4,3,4,3,4,4,4,5,4,4,4,3,4,4,4,4,4,5,3,3,3.6,3.6,4.2,3.8,3.8
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,5,5,4,4,5,5,5,4,4,5,5,5,5,4,5,4,4,5,5,5,5,5,5,4,5,4.6,4.6,4.8,4.6,4.8
+22?25,Female,Undergraduate,Social Sciences,1st Year,No,Good,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,3,3,3,2,2,2,2,2,3,3,3,3,2,2.6,2.4
+22?25,Female,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,5,4,4,4,4,5,4,4,4,4,5,5,5,5,5,4,4,4,5,5,5,5,5,5,5,4.2,4.2,5,4.4,5
+18?21,Male,Postgraduate (Master?s),Computer Science / IT,2nd Year,Yes,Fair,5,4,5,5,5,3,4,3,4,4,4,5,4,4,5,3,4,4,4,5,4,5,4,5,5,4.8,3.6,4.4,4,4.6
+22?25,Female,Undergraduate,Computer Science / IT,2nd Year,No,Fair,2,1,1,1,1,2,1,1,1,1,1,3,3,3,3,1,1,1,1,3,1,3,3,3,2,1.2,1.2,2.6,1.4,2.4
+26?30,Female,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,3,2,2,3,3,3,2,2,3,3,2,4,2,4,3,2,3,3,2,4,2,4,2,2,3,2.6,2.6,3,2.8,2.6
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,3,3,2,3,3,3,3,2,3,3,3,4,2,2,4,2,3,3,3,4,3,4,2,4,2,2.8,2.8,3,3,3
+22?25,Female,Undergraduate,Social Sciences,2nd Year,Yes,Very Poor,3,2,2,3,3,3,2,2,3,3,3,4,3,3,2,2,3,3,3,4,3,4,3,3,4,2.6,2.6,3,3,3.4
+Above 30,Male,Undergraduate,Business Administration,2nd Year,Yes,Good,5,4,5,4,5,5,4,5,4,5,5,5,5,5,5,5,4,5,5,5,5,5,5,4,5,4.6,4.6,5,4.8,4.8
+22?25,Male,Undergraduate,Social Sciences,3rd Year,Yes,Very Good,4,3,3,4,3,4,3,3,4,3,3,5,5,4,5,3,4,3,3,5,3,5,5,4,4,3.4,3.4,4.4,3.6,4.2
+Above 30,Male,Undergraduate,Computer Science / IT,3rd Year,No,Good,3,2,2,3,2,3,2,2,3,2,2,3,2,3,2,2,3,2,2,3,2,3,2,3,2,2.4,2.4,2.4,2.4,2.4
+22?25,Male,Postgraduate (Master?s),Economics,2nd Year,No,Good,5,5,5,4,4,5,5,5,4,4,5,5,4,5,5,5,4,4,5,5,5,5,4,5,4,4.6,4.6,4.8,4.6,4.6
+18-21,Male,Undergraduate,Economics,2nd Year,Yes,Good,2,2,1,2,2,2,2,1,2,2,1,3,1,2,1,1,2,2,1,3,1,3,1,2,3,1.8,1.8,1.6,1.8,2
+22?25,Female,Undergraduate,Computer Science / IT,2nd Year,Yes,Fair,4,5,4,4,5,4,5,4,4,5,4,3,5,5,4,4,4,5,4,3,4,3,5,5,3,4.4,4.4,4.2,4,4
+26?30,Male,Postgraduate (Master?s),Economics,1st Year,Yes,Fair,2,1,1,2,1,2,1,1,2,1,1,2,3,2,1,1,2,1,1,2,1,2,3,1,1,1.4,1.4,1.8,1.4,1.6
+22?25,Prefer not to say,Undergraduate,Other,4th Year or above,Yes,Fair,4,4,4,4,3,4,4,4,4,3,5,4,4,5,3,4,4,3,5,4,5,4,4,5,4,3.8,3.8,4.2,4,4.4
+22?25,Female,Postgraduate (Master?s),Other,3rd Year,Yes,Fair,5,4,5,4,5,5,4,5,4,5,4,5,5,4,5,5,4,5,4,5,4,5,5,4,4,4.6,4.6,4.6,4.6,4.4
+18-21,Male,Undergraduate,Social Sciences,2nd Year,Yes,Very Good,1,1,1,2,1,1,1,1,2,1,1,2,1,2,1,1,2,1,1,2,1,2,1,2,1,1.2,1.2,1.4,1.4,1.4
+26?30,Male,Undergraduate,Economics,3rd Year,Yes,Fair,4,5,4,4,5,4,5,4,4,5,4,5,3,5,4,4,4,5,4,5,4,5,3,4,5,4.4,4.4,4.2,4.4,4.2
+22?25,Female,Undergraduate,Business Administration,2nd Year,Yes,Good,2,2,1,2,2,3,2,2,2,2,1,3,1,3,2,2,2,2,1,3,1,3,1,3,1,1.8,2.2,2,2,1.8
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,5,5,4,5,4,5,5,4,5,4,4,4,5,5,5,4,5,4,4,4,4,4,5,5,5,4.6,4.6,4.6,4.2,4.6
+22?25,Male,Postgraduate (Master?s),Computer Science / IT,4th Year or above,No,Very Good,4,5,4,4,4,4,5,4,4,4,4,5,3,4,4,4,4,4,4,5,4,5,3,3,5,4.2,4.2,4,4.2,4
+18?21,Male,Undergraduate,Social Sciences,2nd Year,Yes,Good,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1.2,1.2,1.2
+22?25,Female,Postgraduate (Master?s),Business Administration,2nd Year,Yes,Fair,1,1,2,2,2,1,1,2,2,2,2,1,2,2,1,2,2,2,2,1,2,1,2,2,1,1.6,1.6,1.6,1.8,1.6
+22?25,Male,Undergraduate,Computer Science / IT,3rd Year,Yes,Very Good,3,4,4,3,4,3,4,4,3,4,3,4,3,3,2,4,3,4,3,4,3,4,3,3,4,3.6,3.6,3,3.6,3.4
+26?30,Male,Postgraduate (Master?s),Computer Science / IT,2nd Year,No,Good,3,3,2,3,2,3,3,2,3,2,3,2,4,2,2,2,3,2,3,2,3,2,4,4,2,2.6,2.6,2.6,2.4,3
+22?25,Female,Other,Computer Science / IT,2nd Year,Yes,Poor,2,1,2,2,2,2,1,2,2,2,2,1,1,1,2,2,2,2,2,1,2,1,1,3,2,1.8,1.8,1.4,1.8,1.8
+22?25,Female,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,4,4,3,4,5,4,4,3,4,5,4,5,4,3,5,3,4,5,4,5,4,5,4,4,4,4,4,4.2,4.2,4.2
+Above 30,Male,Undergraduate,Business Administration,2nd Year,Yes,Fair,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,4,4,4,4,4,4,4,3,5,3,4,4,3.4,4,3.8
+22?25,Male,Undergraduate,Other,1st Year,No,Very Good,3,3,3,2,3,3,3,3,2,3,4,3,4,4,4,3,2,3,4,3,4,3,4,3,4,2.8,2.8,3.8,3,3.6
+18?21,Male,Undergraduate,Business Administration,2nd Year,Yes,Very Good,4,4,3,3,4,4,4,3,3,4,5,4,5,5,4,3,3,4,5,4,5,4,5,5,3,3.6,3.6,4.6,3.8,4.4
+22?25,Female,Postgraduate (Master?s),Computer Science / IT,2nd Year,Yes,Poor,4,5,5,5,5,4,5,5,5,5,4,3,5,4,4,5,5,5,4,3,4,3,5,3,3,4.8,4.8,4,4.4,3.6
+26?30,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Poor,1,1,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1.2,1.2,1,1.2,1.2
+22?25,Male,Undergraduate,Economics,4th Year or above,Yes,Good,3,2,2,2,3,3,2,2,2,3,3,2,2,3,3,2,2,3,3,2,3,2,2,4,4,2.4,2.4,2.6,2.4,3
+22?25,Female,Postgraduate (Master?s),Social Sciences,3rd Year,Yes,Fair,5,4,5,5,5,5,4,5,5,5,4,4,4,4,4,5,5,5,4,4,4,4,4,5,5,4.8,4.8,4,4.6,4.4
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,3,2,3,3,2,3,2,3,3,2,3,3,2,2,3,3,3,2,3,3,3,3,2,2,4,2.6,2.6,2.6,2.8,2.8
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Poor,5,5,5,5,4,5,5,5,5,4,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,4.8,4.8,5,4.8,5
+22?25,Female,Postgraduate (Master?s),Business Administration,1st Year,Yes,Fair,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,2,1,2,1,2,2,2,1,1,1.4,1.2,1.8
+22?25,Female,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,2,2,3,1,2,2,2,3,1,2,1,1,2,1,1,3,1,2,1,1,1,1,2,1,1,2,2,1.2,1.6,1.2
+22?25,Male,Undergraduate,Computer Science / IT,3rd Year,Yes,Good,4,4,4,3,4,5,4,4,5,4,3,4,4,3,3,4,5,4,3,4,3,4,4,5,4,3.8,4.4,3.4,4,4
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Very Good,1,1,1,2,1,1,1,1,2,1,2,2,1,1,1,1,2,1,2,2,2,2,1,1,1,1.2,1.2,1.4,1.6,1.4
+26?30,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Fair,4,5,5,5,5,4,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,5,5,4,4.8,4.8,4.6,5,4.8
+18?21,Female,Other,Computer Science / IT,2nd Year,No,Good,2,1,2,1,1,2,1,2,1,1,3,2,3,3,3,2,1,1,3,2,3,2,3,3,1,1.4,1.4,2.8,1.8,2.4
+26?30,Prefer not to say,Undergraduate,Computer Science / IT,3rd Year,Yes,Very Good,2,1,3,3,3,2,1,3,3,3,3,2,3,1,1,3,3,3,3,2,3,2,3,3,1,2.4,2.4,2,2.8,2.4
+22?25,Male,Postgraduate (Master?s),Social Sciences,2nd Year,No,Good,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,2,1,2,1,1,1,1.2,1.2,1.4
+22?25,Male,Undergraduate,Business Administration,2nd Year,Yes,Very Good,2,3,3,3,3,2,3,3,3,3,1,1,2,3,2,3,3,3,1,1,1,1,2,1,1,2.8,2.8,1.8,2.2,1.2
+18?21,Male,Postgraduate (Master?s),Other,3rd Year,No,Very Good,5,5,5,5,4,5,5,5,5,4,5,5,5,4,4,5,5,4,5,5,5,5,5,4,4,4.8,4.8,4.6,4.8,4.6
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Fair,2,2,2,3,2,2,2,2,3,2,2,2,3,1,3,2,3,2,2,2,2,2,3,2,2,2.2,2.2,2.2,2.2,2.2
+22?25,Female,Other,Business Administration,2nd Year,No,Good,4,3,4,3,3,4,3,4,3,3,5,3,5,4,3,4,3,3,5,3,5,3,5,3,3,3.4,3.4,4,3.6,3.8
+22?25,Male,Postgraduate (Master?s),Computer Science / IT,2nd Year,No,Good,4,4,4,5,5,4,4,4,5,5,5,3,4,5,5,4,5,5,5,3,5,3,4,3,4,4.4,4.4,4.4,4.4,3.8
+26?30,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,4,4,3,4,3,4,4,3,4,3,5,4,5,5,4,3,4,3,5,4,5,4,5,4,3,3.6,3.6,4.6,3.8,4.2
+22?25,Female,Postgraduate (Master?s),Social Sciences,3rd Year,Yes,Good,4,5,4,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,4,4,4,5,3,5,4.2,4.2,4.6,4,4.2
+22?25,Male,Undergraduate,Business Administration,2nd Year,Yes,Good,5,5,4,5,4,5,5,4,5,4,5,5,4,5,5,4,5,4,5,5,5,5,4,4,5,4.6,4.6,4.8,4.6,4.6
+Above 30,Male,Undergraduate,Computer Science / IT,4th Year or above,Yes,Good,3,2,2,2,3,3,2,2,2,3,3,4,2,3,2,2,2,3,3,4,3,4,2,3,4,2.4,2.4,2.8,2.8,3.2
+18?21,Male,Other,Business Administration,3rd Year,Yes,Fair,1,2,1,2,1,1,2,1,2,1,1,2,1,1,1,1,2,1,1,2,1,2,1,1,1,1.4,1.4,1.2,1.4,1.2
+18?21,Prefer not to say,Undergraduate,Social Sciences,2nd Year,Yes,Fair,4,4,5,4,4,4,4,5,4,4,4,3,5,3,3,5,4,4,4,3,4,3,5,4,5,4.2,4.2,3.6,4,4.2
+22?25,Female,Other,Computer Science / IT,4th Year or above,Yes,Fair,2,3,1,2,2,2,3,1,2,2,2,2,3,1,3,1,2,2,2,2,2,2,3,3,1,2,2,2.2,1.8,2.2
+18?21,Female,Undergraduate,Social Sciences,2nd Year,Yes,Good,4,4,4,5,4,4,4,4,5,4,4,3,3,3,4,4,5,4,4,3,4,3,3,5,3,4.2,4.2,3.4,4,3.6
+26?30,Female,Undergraduate,Computer Science / IT,1st Year,Yes,Good,2,1,2,1,1,2,1,2,1,1,3,1,2,1,1,2,1,1,3,1,3,1,2,2,1,1.4,1.4,1.6,1.6,1.8
+26?30,Male,Undergraduate,Economics,3rd Year,No,Fair,2,2,2,2,1,2,2,2,2,1,3,1,1,2,1,2,2,1,3,1,3,1,1,2,2,1.8,1.8,1.6,1.8,1.8
+26?30,Prefer not to say,Undergraduate,Economics,1st Year,Yes,Very Good,4,4,5,4,5,4,4,5,4,5,5,3,3,5,4,5,4,5,5,3,5,3,3,4,5,4.4,4.4,4,4.4,4
+26?30,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,5,5,5,5,4,5,5,5,5,4,5,5,4,5,4,5,5,4,5,5,5,5,4,5,4,4.8,4.8,4.6,4.8,4.6
+26?30,Male,Undergraduate,Economics,2nd Year,Yes,Good,2,3,1,2,2,2,3,1,2,2,2,1,1,1,2,1,2,2,2,1,2,1,1,3,3,2,2,1.4,1.6,2
+18-21,Male,Undergraduate,Other,2nd Year,Yes,Poor,2,3,1,2,1,2,3,1,2,1,1,2,3,2,2,1,2,1,1,2,1,2,3,1,3,1.8,1.8,2,1.4,2
+22?25,Male,Undergraduate,Computer Science / IT,4th Year or above,No,Good,4,3,4,4,5,4,3,4,4,5,4,4,5,5,4,4,4,5,4,4,4,4,5,3,3,4,4,4.4,4.2,3.8
+18-21,Male,Undergraduate,Computer Science / IT,3rd Year,Yes,Good,2,1,3,2,1,2,1,3,2,1,1,3,1,3,2,3,2,1,1,3,1,3,1,2,1,1.8,1.8,2,2,1.6
+26?30,Female,Postgraduate (Master?s),Other,2nd Year,No,Good,2,3,1,3,3,2,3,1,3,3,3,2,2,2,2,1,3,3,3,2,3,2,2,3,3,2.4,2.4,2.2,2.4,2.6
+22?25,Female,Undergraduate,Other,2nd Year,Yes,Very Good,4,4,3,3,5,4,4,3,3,5,4,5,4,4,5,3,3,5,4,5,4,5,4,5,3,3.8,3.8,4.4,4,4.2
+22?25,Male,Other,Computer Science / IT,3rd Year,Yes,Good,4,3,3,5,3,4,3,3,5,3,5,4,4,4,3,3,5,3,5,4,5,4,4,5,3,3.6,3.6,4,4,4.2
+22?25,Male,Postgraduate (Master?s),Other,2nd Year,No,Good,1,2,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1.2,1.2,1.2,1,1
+22?25,Female,Undergraduate,Computer Science / IT,3rd Year,No,Very Good,5,5,5,4,5,5,5,5,4,5,5,5,4,5,4,5,4,5,5,5,5,5,4,4,5,4.8,4.8,4.6,4.8,4.6
+22?25,Male,Undergraduate,Other,2nd Year,Yes,Fair,5,5,5,5,4,5,5,5,5,4,4,5,5,5,5,5,5,4,4,5,4,5,5,5,5,4.8,4.8,4.8,4.6,4.8
+22?25,Male,Undergraduate,Business Administration,2nd Year,Yes,Good,2,2,3,1,1,2,2,3,1,1,1,3,2,2,2,3,1,1,1,3,1,3,2,1,3,1.8,1.8,2,1.8,2
+22?25,Female,Undergraduate,Other,3rd Year,Yes,Fair,5,5,5,5,5,5,5,5,5,5,4,4,4,5,4,5,5,5,4,4,4,4,4,4,5,5,5,4.2,4.6,4.2
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Very Poor,2,3,2,1,3,2,3,2,1,3,2,3,2,3,1,2,1,3,2,3,2,3,2,2,3,2.2,2.2,2.2,2.2,2.4
+26?30,Male,Postgraduate (Master?s),Other,2nd Year,Yes,Very Good,1,2,1,1,2,1,2,1,1,2,1,2,1,1,2,1,1,2,1,2,1,2,1,1,1,1.4,1.4,1.4,1.4,1.2
+26?30,Other,Undergraduate,Computer Science / IT,3rd Year,Yes,Very Good,4,5,5,3,3,4,5,5,3,3,4,5,3,3,5,5,3,3,4,5,4,5,3,3,5,4,4,4,4,4
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,No,Fair,4,3,5,3,3,4,3,5,3,3,3,5,5,5,3,5,3,3,3,5,3,5,5,5,3,3.6,3.6,4.2,3.8,4.2
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,4,3,4,3,4,4,3,4,3,4,3,3,5,5,5,4,3,4,3,3,3,3,5,3,4,3.6,3.6,4.2,3.4,3.6
+26?30,Female,Undergraduate,Economics,3rd Year,No,Fair,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,4,5,4,5,5,4.8,5,4.6
+22?25,Female,Postgraduate (Master?s),Computer Science / IT,1st Year,Yes,Good,1,1,1,1,2,2,3,2,2,2,1,1,3,3,2,2,2,2,1,1,1,1,2,1,2,1.2,2.2,2,1.6,1.4
+26?30,Other,Undergraduate,Computer Science / IT,2nd Year,Yes,Very Poor,5,4,5,4,5,5,4,5,4,5,4,5,4,5,5,5,4,5,4,5,4,5,4,4,5,4.6,4.6,4.6,4.6,4.4
+26?30,Male,Undergraduate,Computer Science / IT,1st Year,Yes,Fair,5,5,5,5,4,5,5,5,5,4,5,5,4,5,5,5,5,4,5,5,5,5,4,5,5,4.8,4.8,4.8,4.8,4.8
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,1,1,1,1,2,1,1,1,1,2,1,2,1,1,2,1,1,2,1,2,1,2,1,2,1,1.2,1.2,1.4,1.4,1.4
+Above 30,Female,Undergraduate,Social Sciences,2nd Year,Yes,Good,1,1,1,2,1,1,1,1,2,1,1,1,2,1,2,1,2,1,1,1,1,1,2,1,1,1.2,1.2,1.4,1.2,1.2
+18?21,Female,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,2,1,1,1,2,1,1,1.2,1.2,1.4
+22?25,Male,Postgraduate (Master?s),Computer Science / IT,2nd Year,No,Fair,1,2,1,1,1,1,2,1,1,1,2,1,1,2,1,1,1,1,2,1,2,1,1,1,1,1.2,1.2,1.4,1.2,1.2
+22?25,Female,Undergraduate,Computer Science / IT,2nd Year,Yes,Very Good,4,5,4,5,4,4,5,4,5,4,5,4,5,5,3,4,5,4,5,4,5,4,5,3,4,4.4,4.4,4.4,4.4,4.2
+22?25,Other,Undergraduate,Economics,2nd Year,Yes,Good,3,3,3,4,3,3,3,3,4,3,4,3,4,3,2,3,4,3,4,3,4,3,4,4,4,3.2,3.2,3.2,3.4,3.8
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Very Good,3,3,2,3,3,3,3,2,3,3,4,4,4,4,3,2,3,3,4,4,4,4,4,2,4,2.8,2.8,3.8,3.2,3.6
+22?25,Male,Undergraduate,Other,3rd Year,Yes,Very Poor,1,2,1,1,1,1,2,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,2,1,1,1.2,1.2,1.4,1,1.2
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,3,4,3,2,2,3,4,3,2,2,4,2,3,2,4,3,2,2,4,2,4,2,3,3,3,2.8,2.8,3,2.6,3
+Above 30,Female,Undergraduate,Computer Science / IT,2nd Year,Yes,Poor,3,3,4,4,2,3,3,4,4,2,4,3,4,2,4,4,4,2,4,3,4,3,4,3,3,3.2,3.2,3.4,3.4,3.4
+22?25,Male,Undergraduate,Social Sciences,2nd Year,No,Good,1,1,1,1,2,1,1,1,1,2,2,2,2,2,2,1,1,2,2,2,2,2,2,1,1,1.2,1.2,2,1.6,1.6
+22?25,Male,Undergraduate,Economics,2nd Year,Yes,Fair,3,2,4,4,3,3,2,4,4,3,4,4,2,4,2,4,4,3,4,4,4,4,2,3,2,3.2,3.2,3.2,3.8,3
+Above 30,Male,Postgraduate (Master?s),Computer Science / IT,2nd Year,No,Very Good,5,5,4,4,5,5,5,4,4,5,5,5,5,5,5,4,4,5,5,5,5,5,5,4,5,4.6,4.6,5,4.6,4.8
+18-21,Male,Undergraduate,Business Administration,2nd Year,Yes,Good,2,1,1,3,1,2,1,1,3,1,1,3,2,3,3,1,3,1,1,3,1,3,2,1,2,1.6,1.6,2.4,1.8,1.8
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,2,2,1,1,1,2,2,1,1,1,3,1,2,3,1,1,1,1,3,1,3,1,2,1,1,1.4,1.4,2,1.4,1.6
+22?25,Male,Undergraduate,Computer Science / IT,2nd Year,Yes,Good,2,3,1,1,3,2,3,1,1,3,2,1,1,1,2,1,1,3,2,1,2,1,1,1,1,2,2,1.4,1.6,1.2
