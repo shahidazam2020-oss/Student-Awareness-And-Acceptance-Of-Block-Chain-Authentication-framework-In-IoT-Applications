@@ -14,7 +14,7 @@
 
 <p>
 
-<a href="#-overview">Overview</a> • <a href="#-research-framework">Framework</a> • <a href="#-methodology">Methodology</a> • <a href="#-results-dashboard">Results</a> • <a href="#-statistical-analysis">Analysis</a> • <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications">Repository</a>
+<a href="#-overview">Overview</a> • <a href="#-research-framework">Framework</a> • <a href="#-methodology">Methodology</a> • <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications/blob/master/My%20Paper%20Results.pdf">Results</a> • <a href="#-statistical-analysis">Analysis</a> • <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications">Repository</a>
 
 </p>
 
