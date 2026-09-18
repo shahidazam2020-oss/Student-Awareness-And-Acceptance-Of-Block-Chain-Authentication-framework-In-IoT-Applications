@@ -599,22 +599,6 @@ I enjoy building complete software systems—from networking and operating syste
 
 
 ---
-
-# 📜 Disclaimer
-
-This repository contains research materials and statistical outputs associated with an academic research study. The statistical results presented in this README reflect the supplied research outputs and should be interpreted within the study's sample, methodology, measurement design, and stated limitations.
-
----
-
-<div align="center">
-
-## 🔐 Blockchain × 🌐 IoT × 📊 Research
-
-### **From User Perception → Statistical Evidence → IoT Security Research**
-
-</div>
-
----
 # 🤝 Connect With Me
 
 <p align="center">
@@ -632,6 +616,22 @@ This repository contains research materials and statistical outputs associated w
 </a>
 
 </p>
+---
+
+# 📜 Disclaimer
+
+This repository contains research materials and statistical outputs associated with an academic research study. The statistical results presented in this README reflect the supplied research outputs and should be interpreted within the study's sample, methodology, measurement design, and stated limitations.
+
+---
+
+<div align="center">
+
+## 🔐 Blockchain × 🌐 IoT × 📊 Research
+
+### **From User Perception → Statistical Evidence → IoT Security Research**
+
+</div>
+
 
 ---
 # ⭐ Repository
