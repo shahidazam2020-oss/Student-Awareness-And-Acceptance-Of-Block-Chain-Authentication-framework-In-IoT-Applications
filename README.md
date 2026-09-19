@@ -276,7 +276,7 @@ The reported reliability estimates are based on the five-item scales for each co
 
 # 🔍 Confirmatory Factor Analysis
 
-Confirmatory Factor Analysis (CFA) was performed for the principal constructs.
+*Confirmatory Factor Analysis (CFA) was performed for the principal constructs.*
 
 The analysis reports:
 
