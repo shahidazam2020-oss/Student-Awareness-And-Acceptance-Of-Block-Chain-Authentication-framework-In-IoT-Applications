@@ -203,7 +203,7 @@ Very Poor       4%
 
 ### 🎓 Student Awareness
 
-The awareness scale contains five items covering familiarity with blockchain, data security, authentication frameworks, blockchain applications in IoT, and confidence discussing blockchain applications.
+*The awareness scale contains five items covering familiarity with blockchain, data security, authentication frameworks, blockchain applications in IoT, and confidence discussing blockchain applications.*
 
 ### ⚙️ Perceived Ease of Use
 
