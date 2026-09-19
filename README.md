@@ -147,7 +147,7 @@
 
 # 👥 Sample Profile
 
-The study contains 100 respondents.
+*The study contains 100 respondents.*
 
 ### 🎓 Level of Study
 
