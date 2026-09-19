@@ -219,7 +219,7 @@ Very Poor       4%
 
 ### ✅ Acceptance
 
-Acceptance is measured through willingness, future intention, support for adoption, suitability for IoT security, and recommendation of blockchain-based authentication.
+*Acceptance is measured through willingness, future intention, support for adoption, suitability for IoT security, and recommendation of blockchain-based authentication.*
 
 ---
 
