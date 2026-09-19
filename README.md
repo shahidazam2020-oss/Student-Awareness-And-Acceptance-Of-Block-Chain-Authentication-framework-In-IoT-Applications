@@ -523,7 +523,7 @@ R² Usefulness       = 0.981
 
 *The study combines **technology acceptance perspectives** with the security context of **blockchain-enabled IoT authentication**.*
 
-The analysis specifically investigates how:
+*The analysis specifically investigates how:*
 
 * Awareness relates to acceptance.
 * Ease of use relates to acceptance.
