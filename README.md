@@ -215,7 +215,7 @@ Very Poor       4%
 
 ### 💡 Perceived Usefulness
 
-Items examine whether blockchain authentication could improve security and safety within IoT and online interactions.
+*Items examine whether blockchain authentication could improve security and safety within IoT and online interactions.*
 
 ### ✅ Acceptance
 
