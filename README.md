@@ -411,7 +411,7 @@ R² Acceptance       = 0.964
 R² Usefulness       = 0.981
 ```
 
-These values are reported in the final model output.
+*These values are reported in the final model output.*
 
 ---
 
