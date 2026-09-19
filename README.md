@@ -26,7 +26,7 @@
 
 *This research investigates the factors associated with the **acceptance of blockchain-based authentication systems for Internet of Things (IoT) applications**.*
 
-The study examines five major constructs:
+*The study examines five major constructs:*
 
 ```text
 ┌──────────────────────┐
