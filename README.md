@@ -537,7 +537,7 @@ R² Usefulness       = 0.981
 
 # 🔮 Future Research Directions
 
-Potential extensions of this research include:
+*Potential extensions of this research include:*
 
 * Increasing the sample size.
 * Including participants from multiple universities or regions.
