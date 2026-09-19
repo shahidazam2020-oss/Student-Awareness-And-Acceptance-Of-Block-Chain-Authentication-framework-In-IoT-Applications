@@ -490,7 +490,7 @@ R² Usefulness       = 0.981
 
 # 📚 Research Outputs
 
-This repository provides supporting research material including:
+*This repository provides supporting research material including:*
 
 ```text
 📋 Research Questionnaire
