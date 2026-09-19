@@ -339,7 +339,7 @@ The analysis reports statistically significant positive Pearson correlations amo
 
 # 🔄 Mediation Analysis
 
-The research further examines **Perceived Usefulness (PU)** as a mediating variable between the predictor constructs and blockchain acceptance.
+*The research further examines **Perceived Usefulness (PU)** as a mediating variable between the predictor constructs and blockchain acceptance.*
 
 ```text
        Student Awareness
