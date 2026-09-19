@@ -207,7 +207,7 @@ Very Poor       4%
 
 ### ⚙️ Perceived Ease of Use
 
-Five items assess whether blockchain-based authentication is perceived as easy to learn, straightforward, user-friendly, and requiring limited mental effort.
+*Five items assess whether blockchain-based authentication is perceived as easy to learn, straightforward, user-friendly, and requiring limited mental effort.*
 
 ### 🛡️ Perceived Security Benefits
 
