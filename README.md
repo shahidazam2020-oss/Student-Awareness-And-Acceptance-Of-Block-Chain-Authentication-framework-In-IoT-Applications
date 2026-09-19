@@ -86,7 +86,7 @@
 | 💡 Perceived Usefulness         |  **PU** | Perceived usefulness of blockchain authentication              |
 | ✅ Acceptance                    | **ACC** | Willingness and intention to adopt blockchain authentication   |
 
-The questionnaire uses a **5-point Likert scale**, ranging from strongly disagree to strongly agree.
+*The questionnaire uses a **5-point Likert scale**, ranging from strongly disagree to strongly agree.*
 
 ---
 
