@@ -260,7 +260,7 @@ Very Poor       4%
 
 # 📈 Reliability Analysis
 
-Cronbach's alpha was used to evaluate internal consistency.
+*Cronbach's alpha was used to evaluate internal consistency.*
 
 | Construct                       | Cronbach's α |
 | ------------------------------- | :----------: |
