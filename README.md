@@ -358,7 +358,7 @@ The research further examines **Perceived Usefulness (PU)** as a mediating varia
        Acceptance
 ```
 
-Additional paths examine:
+*Additional paths examine:*
 
 ```text
 SA  ───────────────► ACC
