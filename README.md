@@ -64,7 +64,7 @@ The empirical dataset contains **100 valid responses with no missing values** fo
 
 ### 🔐 Blockchain
 
-Blockchain technology is investigated as a potential mechanism for improving authentication, security, transparency, and integrity within connected systems.
+*Blockchain technology is investigated as a potential mechanism for improving authentication, security, transparency, and integrity within connected systems.*
 
 ### 🌐 Internet of Things
 
