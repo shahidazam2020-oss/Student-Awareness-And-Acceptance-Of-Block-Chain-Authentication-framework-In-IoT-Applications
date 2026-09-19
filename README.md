@@ -211,7 +211,7 @@ Very Poor       4%
 
 ### 🛡️ Perceived Security Benefits
 
-The questionnaire evaluates perceptions concerning unauthorized access, online-system security, identity theft, transparency, integrity, and comparison with traditional systems.
+*The questionnaire evaluates perceptions concerning unauthorized access, online-system security, identity theft, transparency, integrity, and comparison with traditional systems.*
 
 ### 💡 Perceived Usefulness
 
