@@ -398,7 +398,7 @@ PSB ─────► PU ─────► ACC
 | PEU → ACC |  -0.128  |  0.402  |
 | PSB → ACC |   0.716  |  < .001 |
 
-The mediation analysis reports these direct, indirect, and total effects with confidence intervals.
+*The mediation analysis reports these direct, indirect, and total effects with confidence intervals.*
 
 ---
 
