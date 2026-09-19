@@ -320,7 +320,7 @@ The analysis reports:
 
 # 🔗 Correlation Analysis
 
-The analysis reports statistically significant positive Pearson correlations among the five constructs.
+*The analysis reports statistically significant positive Pearson correlations among the five constructs.*
 
 | Relationship | Pearson's r | p-value |
 | ------------ | :---------: | :-----: |
