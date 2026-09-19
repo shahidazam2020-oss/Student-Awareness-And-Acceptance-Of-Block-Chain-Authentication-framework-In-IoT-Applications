@@ -302,7 +302,7 @@ The analysis reports:
 | Perceived Usefulness        | **0.783** |
 | Acceptance                  | **0.746** |
 
-The reported AVE values are taken from the CFA results.
+*The reported AVE values are taken from the CFA results.*
 
 ---
 
