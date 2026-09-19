@@ -193,7 +193,7 @@ Poor            6%
 Very Poor       4%
 ```
 
-These distributions are reported directly in the descriptive frequency analysis.
+*These distributions are reported directly in the descriptive frequency analysis.*
 
 ---
 
