@@ -199,7 +199,7 @@ Very Poor       4%
 
 # 📋 Research Instrument
 
-The questionnaire contains five measurement areas.
+*The questionnaire contains five measurement areas.*
 
 ### 🎓 Student Awareness
 
