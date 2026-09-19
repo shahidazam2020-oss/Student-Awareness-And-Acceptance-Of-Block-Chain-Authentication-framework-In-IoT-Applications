@@ -521,7 +521,7 @@ R² Usefulness       = 0.981
 
 # 🎓 Research Contribution
 
-The study combines **technology acceptance perspectives** with the security context of **blockchain-enabled IoT authentication**.
+*The study combines **technology acceptance perspectives** with the security context of **blockchain-enabled IoT authentication**.*
 
 The analysis specifically investigates how:
 
