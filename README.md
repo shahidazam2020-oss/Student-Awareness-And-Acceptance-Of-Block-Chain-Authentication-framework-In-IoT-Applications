@@ -276,7 +276,7 @@ Very Poor       4%
 
 # 🔍 Confirmatory Factor Analysis
 
-*Confirmatory Factor Analysis (CFA) was performed for the principal constructs.*
+**Confirmatory Factor Analysis (CFA) was performed for the principal constructs.**
 
 The analysis reports:
 
