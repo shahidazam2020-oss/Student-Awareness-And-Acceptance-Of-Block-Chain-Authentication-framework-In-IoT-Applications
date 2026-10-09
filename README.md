@@ -270,7 +270,7 @@ Very Poor       4%
 | 💡 Perceived Usefulness         |   **0.947**  |
 | ✅ Blockchain Acceptance         |   **0.936**  |
 
-The reported reliability estimates are based on the five-item scales for each construct.
+*The reported reliability estimates are based on the five-item scales for each construct.*
 
 ---
 
