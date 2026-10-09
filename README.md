@@ -68,7 +68,7 @@ This research investigates the factors associated with the **acceptance of block
 
 ### 🌐 Internet of Things
 
-*The study focuses on the context of **IoT systems**, where numerous connected devices create security and authentication requirements.*
+**The study focuses on the context of **IoT systems**, where numerous connected devices create security and authentication requirements.**
 
 ### 👥 User Acceptance
 
