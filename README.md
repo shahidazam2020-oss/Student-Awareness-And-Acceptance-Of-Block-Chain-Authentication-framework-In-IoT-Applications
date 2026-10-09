@@ -64,7 +64,7 @@ This research investigates the factors associated with the **acceptance of block
 
 ### 🔐 Blockchain
 
-*Blockchain technology is investigated as a potential mechanism for improving authentication, security, transparency, and integrity within connected systems.*
+**Blockchain technology is investigated as a potential mechanism for improving authentication, security, transparency, and integrity within connected systems.**
 
 ### 🌐 Internet of Things
 
