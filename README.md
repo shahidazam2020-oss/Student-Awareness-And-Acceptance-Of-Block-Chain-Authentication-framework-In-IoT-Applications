@@ -56,7 +56,7 @@ This research investigates the factors associated with the **acceptance of block
 └──────────────────────────┘
 ```
 
-*The empirical dataset contains **100 valid responses with no missing values** for the demographic variables reported in the analysis.*
+**The empirical dataset contains **100 valid responses with no missing values** for the demographic variables reported in the analysis.**
 
 ---
 
