@@ -537,7 +537,7 @@ The study combines **technology acceptance perspectives** with the security cont
 
 # 🔮 Future Research Directions
 
-*Potential extensions of this research include:*
+**Potential extensions of this research include:**
 
 * Increasing the sample size.
 * Including participants from multiple universities or regions.
