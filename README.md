@@ -72,7 +72,7 @@ This research investigates the factors associated with the **acceptance of block
 
 ### 👥 User Acceptance
 
-*Rather than evaluating blockchain solely from a technical perspective, the research examines how users perceive and accept blockchain-based authentication.*
+**Rather than evaluating blockchain solely from a technical perspective, the research examines how users perceive and accept blockchain-based authentication.**
 
 ---
 
