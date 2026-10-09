@@ -404,7 +404,7 @@ PSB ─────► PU ─────► ACC
 
 # 📈 Model Explained Variance
 
-The final reported model provides:
+**The final reported model provides:**
 
 ```text
 R² Acceptance       = 0.964
