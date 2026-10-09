@@ -531,7 +531,7 @@ The study combines **technology acceptance perspectives** with the security cont
 * Usefulness relates to acceptance.
 * Perceived usefulness functions within the examined mediation relationships.
 
-*The research therefore provides an empirical framework for examining user perceptions surrounding blockchain authentication in IoT environments.*
+**The research therefore provides an empirical framework for examining user perceptions surrounding blockchain authentication in IoT environments.**
 
 ---
 
