@@ -278,7 +278,7 @@ Very Poor       4%
 
 **Confirmatory Factor Analysis (CFA) was performed for the principal constructs.**
 
-The analysis reports:
+*The analysis reports:*
 
 * Model fit
 * χ² statistics
