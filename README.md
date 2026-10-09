@@ -358,7 +358,7 @@ The analysis reports:
        Acceptance
 ```
 
-*Additional paths examine:*
+**Additional paths examine:**
 
 ```text
 SA  ───────────────► ACC
