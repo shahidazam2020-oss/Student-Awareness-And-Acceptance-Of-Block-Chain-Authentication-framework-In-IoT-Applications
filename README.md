@@ -1,656 +1,549 @@
 <div align="center">
 
-# 🔐 Blockchain-Based Authentication for IoT
+# 🔐 Blockchain-Based Authentication for IoT Applications
 
-### 📊 A Quantitative Study of Awareness, Security Perceptions, Usefulness, and Acceptance
+### A Quantitative Research Study on Student Awareness, Security Perceptions, Usefulness & Technology Acceptance
 
 <p>
-<img src="https://img.shields.io/badge/Research-Quantitative%20Study-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Research-Quantitative-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Blockchain-Authentication-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/IoT-Security-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Participants-100-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Analysis-CFA%20%7C%20Mediation-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Domain-IoT%20Security-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Analysis-CFA%20%7C%20Mediation-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Study-Survey%20Based-lightgrey?style=for-the-badge">
 </p>
 
 <p>
-
-<a href="#-overview">Overview</a> • <a href="#-research-framework">Framework</a> • <a href="#-methodology">Methodology</a> • <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications/blob/master/My%20Paper%20Results.pdf">Results</a> • <a href="#-statistical-analysis">Analysis</a> • <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications">Repository</a>
-
+<a href="#overview">Overview</a> •
+<a href="#research-framework">Framework</a> •
+<a href="#methodology">Methodology</a> •
+<a href="#statistical-analysis">Analysis</a> •
+<a href="#findings">Findings</a> •
+<a href="#repository-structure">Repository</a>
 </p>
 
+**Investigating the factors influencing students' awareness, perceptions, and acceptance of blockchain-based authentication mechanisms in Internet of Things (IoT) applications.**
+
 </div>
 
 ---
 
-## 🎯 Research Overview
+## 📌 1. Research Overview
 
-This research investigates the factors associated with the **acceptance of blockchain-based authentication systems for Internet of Things (IoT) applications**.
+Blockchain technology has emerged as a potential approach to strengthening authentication, transparency, data integrity, and security in connected systems.
 
-**The study examines five major constructs:**
+With the rapid expansion of the Internet of Things (IoT), authentication and access control have become important considerations for protecting connected devices and digital environments.
+
+This quantitative research investigates how students perceive blockchain-based authentication for IoT applications and examines the relationships between awareness, perceived ease of use, perceived security benefits, perceived usefulness, and acceptance.
+
+The study uses questionnaire-based data collection and statistical analysis to investigate the proposed research relationships.
+
+### 🎯 Research Objectives
+
+- Examine students' awareness of blockchain technology.
+- Investigate perceptions of blockchain-based authentication.
+- Evaluate perceived ease of use.
+- Examine perceived security benefits.
+- Analyze perceived usefulness.
+- Investigate students' acceptance of blockchain authentication in IoT applications.
+- Assess relationships among the research constructs.
+- Examine the mediating role of perceived usefulness.
+
+---
+
+## 📊 2. Research Dashboard
+
+| Research Component | Details |
+|---|---|
+| Research Domain | Blockchain and IoT Security |
+| Research Approach | Quantitative |
+| Data Collection | Questionnaire Survey |
+| Valid Responses | 100 |
+| Research Constructs | 5 |
+| Measurement Items | 25 |
+| Measurement Scale | 5-Point Likert Scale |
+| Reliability Analysis | Cronbach's Alpha |
+| Measurement Validation | Confirmatory Factor Analysis |
+| Relationship Analysis | Pearson Correlation |
+| Additional Analysis | Mediation Analysis |
+| Statistical Results | JASP |
+
+---
+
+## 🧩 3. Research Constructs
+
+The study investigates five major constructs.
+
+| Construct | Code | Description |
+|---|---|---|
+| Student Awareness | SA | Awareness and understanding of blockchain technology |
+| Perceived Ease of Use | PEU | Perceived simplicity of using blockchain authentication |
+| Perceived Security Benefits | PSB | Perceived security improvements offered by blockchain |
+| Perceived Usefulness | PU | Perceived usefulness in IoT authentication |
+| Acceptance | ACC | Willingness and intention to adopt blockchain authentication |
+
+### 📋 Measurement Instrument
+
+The questionnaire contains 25 measurement items distributed across five constructs.
+
+Each construct is measured using five items on a five-point Likert scale:
+
+| Score | Response |
+|---:|---|
+| 1 | Strongly Disagree |
+| 2 | Disagree |
+| 3 | Neutral |
+| 4 | Agree |
+| 5 | Strongly Agree |
+
+---
+
+## 🏗️ 4. Conceptual Research Framework
+
+The research examines the relationships between student awareness, perceived ease of use, perceived security benefits, perceived usefulness, and blockchain acceptance.
+
+### Proposed Research Relationships
 
 ```text
-┌──────────────────────┐
-│ Student Awareness    │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ Perceived Ease of Use│
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────────┐
-│ Perceived Security       │
-│ Benefits                 │
-└──────────┬───────────────┘
-           │
-           ▼
-┌──────────────────────────┐
-│ Perceived Usefulness     │
-└──────────┬───────────────┘
-           │
-           ▼
-┌──────────────────────────┐
-│ Blockchain Acceptance    │
-│ for IoT Authentication   │
-└──────────────────────────┘
+       STUDENT AWARENESS (SA)
+                  │
+                  ├──────────────────────┐
+                  ▼                      │
+       PERCEIVED EASE OF USE (PEU)       │
+                  │                      │
+                  ├──────────────────────┤
+                  ▼                      │
+       PERCEIVED SECURITY BENEFITS       │
+                  (PSB)                  │
+                  │                      │
+                  ▼                      │
+       PERCEIVED USEFULNESS (PU)         │
+                  │                      │
+                  ▼                      ▼
+          BLOCKCHAIN ACCEPTANCE (ACC)
 ```
 
-**The empirical dataset contains **100 valid responses with no missing values** for the demographic variables reported in the analysis.**
+The statistical analysis investigates both direct relationships with acceptance and indirect relationships through perceived usefulness.
 
 ---
 
-# 🔬 Research Focus
+## 👥 5. Respondent Profile
 
-### 🔐 Blockchain
-
-**Blockchain technology is investigated as a potential mechanism for improving authentication, security, transparency, and integrity within connected systems.**
-
-### 🌐 Internet of Things
-
-**The study focuses on the context of **IoT systems**, where numerous connected devices create security and authentication requirements.**
-
-### 👥 User Acceptance
-
-**Rather than evaluating blockchain solely from a technical perspective, the research examines how users perceive and accept blockchain-based authentication.**
-
----
-
-# 🧩 Research Constructs
-
-| Construct                       |   Code  | Description                                                    |
-| ------------------------------- | :-----: | -------------------------------------------------------------- |
-| 🎓 Student Awareness            |  **SA** | Awareness and understanding of blockchain applications         |
-| ⚙️ Perceived Ease of Use        | **PEU** | Perception that blockchain authentication would be easy to use |
-| 🛡️ Perceived Security Benefits | **PSB** | Perceived security improvements from blockchain                |
-| 💡 Perceived Usefulness         |  **PU** | Perceived usefulness of blockchain authentication              |
-| ✅ Acceptance                    | **ACC** | Willingness and intention to adopt blockchain authentication   |
-
-**The questionnaire uses a **5-point Likert scale**, ranging from strongly disagree to strongly agree.**
-
----
-
-# 🏗️ Conceptual Research Framework
-
-<div align="center">
-
-```text
-                   ┌─────────────────────┐
-                   │ Student Awareness   │
-                   │        (SA)         │
-                   └──────────┬──────────┘
-                              │
-                              ▼
-                   ┌─────────────────────┐
-                   │ Perceived Ease      │
-                   │     of Use (PEU)    │
-                   └──────────┬──────────┘
-                              │
-                              ▼
-                   ┌─────────────────────┐
-                   │ Perceived Security  │
-                   │   Benefits (PSB)    │
-                   └──────────┬──────────┘
-                              │
-                              ▼
-                   ┌─────────────────────┐
-                   │ Perceived           │
-                   │ Usefulness (PU)     │
-                   └──────────┬──────────┘
-                              │
-                              ▼
-                   ┌─────────────────────┐
-                   │ Blockchain          │
-                   │ Acceptance (ACC)   │
-                   └─────────────────────┘
-```
-
-</div>
-
----
-
-# 📊 Research Dashboard
-
-<div align="center">
-
-| 👥 Participants | 📋 Constructs | 📑 Items |     📈 Analysis     |
-| :-------------: | :-----------: | :------: | :-----------------: |
-|     **100**     |     **5**     |  **25**  | **CFA + Mediation** |
-
-|  🔐 Blockchain |  🌐 IoT  | 📊 Likert Scale | 🧪 Reliability |
-| :------------: | :------: | :-------------: | :------------: |
-| Authentication | Security |       1–5       |  Cronbach's α  |
-
-</div>
-
----
-
-# 👥 Sample Profile
-
-**The study contains 100 respondents.**
+The study includes 100 valid responses.
 
 ### 🎓 Level of Study
 
-```text
-Undergraduate       73%
-Postgraduate        21%
-Other                6%
-```
+| Academic Level | Percentage |
+|---|---:|
+| Undergraduate | 73% |
+| Postgraduate | 21% |
+| Other | 6% |
 
-### 💻 Academic Program
+### 💻 Academic Background
 
-```text
-Computer Science / IT       52%
-Other                       13%
-Business Administration     12%
-Social Sciences             12%
-Economics                   11%
-```
+| Academic Program | Percentage |
+|---|---:|
+| Computer Science / IT | 52% |
+| Other | 13% |
+| Business Administration | 12% |
+| Social Sciences | 12% |
+| Economics | 11% |
 
 ### 📅 Year of Study
 
-```text
-1st Year       8%
-2nd Year      66%
-3rd Year      19%
-4th+ Year      7%
-```
+| Year | Percentage |
+|---|---:|
+| First Year | 8% |
+| Second Year | 66% |
+| Third Year | 19% |
+| Fourth Year or Above | 7% |
 
 ### 🔗 Previous Blockchain Knowledge
 
-```text
-Yes           78%
-No            22%
-```
+| Response | Percentage |
+|---|---:|
+| Yes | 78% |
+| No | 22% |
 
 ### 🌐 IoT Understanding
 
-```text
-Good           48%
-Fair           24%
-Very Good      18%
-Poor            6%
-Very Poor       4%
-```
-
-**These distributions are reported directly in the descriptive frequency analysis.**
+| Understanding Level | Percentage |
+|---|---:|
+| Very Good | 18% |
+| Good | 48% |
+| Fair | 24% |
+| Poor | 6% |
+| Very Poor | 4% |
 
 ---
 
-# 📋 Research Instrument
+## 🔬 6. Research Methodology
 
-**The questionnaire contains five measurement areas.**
-
-### 🎓 Student Awareness
-
-**The awareness scale contains five items covering familiarity with blockchain, data security, authentication frameworks, blockchain applications in IoT, and confidence discussing blockchain applications.**
-
-### ⚙️ Perceived Ease of Use
-
-**Five items assess whether blockchain-based authentication is perceived as easy to learn, straightforward, user-friendly, and requiring limited mental effort.**
-
-### 🛡️ Perceived Security Benefits
-
-**The questionnaire evaluates perceptions concerning unauthorized access, online-system security, identity theft, transparency, integrity, and comparison with traditional systems.**
-
-### 💡 Perceived Usefulness
-
-**Items examine whether blockchain authentication could improve security and safety within IoT and online interactions.**
-
-### ✅ Acceptance
-
-**Acceptance is measured through willingness, future intention, support for adoption, suitability for IoT security, and recommendation of blockchain-based authentication.**
-
----
-
-# 🧪 Research Methodology
+The research follows a structured quantitative methodology.
 
 ```text
-                    Research Problem
-                           │
-                           ▼
-                  Questionnaire Design
-                           │
-                           ▼
-                    Data Collection
-                           │
-                           ▼
-                  100 Valid Responses
-                           │
-                           ▼
-                  Descriptive Statistics
-                           │
-                           ▼
-                Reliability Assessment
-                           │
-                           ▼
-             Confirmatory Factor Analysis
-                           │
-                           ▼
-                  Correlation Analysis
-                           │
-                           ▼
-                 Mediation Analysis
-                           │
-                           ▼
-                   Interpretation
+             RESEARCH PROBLEM
+                    │
+                    ▼
+             QUESTIONNAIRE DESIGN
+                    │
+                    ▼
+              DATA COLLECTION
+                    │
+                    ▼
+              100 VALID RESPONSES
+                    │
+                    ▼
+            DESCRIPTIVE STATISTICS
+                    │
+                    ▼
+             RELIABILITY ANALYSIS
+                    │
+                    ▼
+        CONFIRMATORY FACTOR ANALYSIS
+                    │
+                    ▼
+             CORRELATION ANALYSIS
+                    │
+                    ▼
+              MEDIATION ANALYSIS
+                    │
+                    ▼
+             RESEARCH FINDINGS
 ```
 
----
+### Research Process
 
-# 📈 Reliability Analysis
-
-**Cronbach's alpha was used to evaluate internal consistency.**
-
-| Construct                       | Cronbach's α |
-| ------------------------------- | :----------: |
-| 🎓 Student Awareness            |   **0.964**  |
-| ⚙️ Perceived Ease of Use        |   **0.963**  |
-| 🛡️ Perceived Security Benefits |   **0.944**  |
-| 💡 Perceived Usefulness         |   **0.947**  |
-| ✅ Blockchain Acceptance         |   **0.936**  |
-
-**The reported reliability estimates are based on the five-item scales for each construct.**
+1. Identify the research problem.
+2. Define the research constructs.
+3. Design the questionnaire.
+4. Collect survey responses.
+5. Prepare and inspect the dataset.
+6. Perform descriptive statistical analysis.
+7. Evaluate internal consistency.
+8. Conduct Confirmatory Factor Analysis.
+9. Examine correlations among constructs.
+10. Investigate direct and indirect effects through mediation analysis.
 
 ---
 
-# 🔍 Confirmatory Factor Analysis
+## 📈 7. Descriptive Statistical Analysis
 
-**Confirmatory Factor Analysis (CFA) was performed for the principal constructs.**
+Descriptive statistics summarize the responses across the five research constructs.
 
-*The analysis reports:*
+| Construct | Mean | Standard Deviation |
+|---|---:|---:|
+| Student Awareness | 3.000 | 1.332 |
+| Perceived Ease of Use | 3.008 | 1.313 |
+| Perceived Security Benefits | 3.102 | 1.303 |
+| Perceived Usefulness | 3.034 | 1.295 |
+| Acceptance | 3.080 | 1.280 |
 
-* Model fit
-* χ² statistics
-* Degrees of freedom
-* p-values
-* KMO
-* Bartlett's test
-* R²
-* Factor loadings
-* Factor variances
-* Residual variances
-* Average Variance Extracted (AVE)
-
-### 📊 AVE Summary
-
-| Construct                   |    AVE    |
-| --------------------------- | :-------: |
-| Student Awareness           | **0.844** |
-| Perceived Ease of Use       | **0.839** |
-| Perceived Security Benefits | **0.771** |
-| Perceived Usefulness        | **0.783** |
-| Acceptance                  | **0.746** |
-
-**The reported AVE values are taken from the CFA results.**
+These values provide an overview of respondents' perceptions across the research dimensions.
 
 ---
 
-# 📊 Descriptive Statistics Dashboard
+## 🧪 8. Reliability Analysis
 
-| Variable                    |    Mean   | Std. Deviation |
-| --------------------------- | :-------: | :------------: |
-| Student Awareness           | **3.000** |    **1.332**   |
-| Perceived Ease of Use       | **3.008** |    **1.313**   |
-| Perceived Security Benefits | **3.102** |    **1.303**   |
-| Perceived Usefulness        | **3.034** |    **1.295**   |
-| Acceptance                  | **3.080** |    **1.280**   |
+Cronbach's Alpha is used to assess the internal consistency of the five-item measurement scales.
+
+### Reliability Results
+
+| Research Construct | Cronbach's Alpha |
+|---|---:|
+| Student Awareness | 0.964 |
+| Perceived Ease of Use | 0.963 |
+| Perceived Security Benefits | 0.944 |
+| Perceived Usefulness | 0.947 |
+| Blockchain Acceptance | 0.936 |
+
+### Interpretation
+
+All five constructs demonstrate high reported internal consistency, with Cronbach's Alpha values above 0.90.
+
+These results indicate strong internal consistency within the questionnaire scales. They should be interpreted alongside factor validity and the possibility of overlapping measurement items.
 
 ---
 
-# 🔗 Correlation Analysis
+## 🔍 9. Confirmatory Factor Analysis (CFA)
 
-**The analysis reports statistically significant positive Pearson correlations among the five constructs.**
+Confirmatory Factor Analysis is used to examine the measurement structure of the proposed research constructs.
+
+The analysis considers:
+
+- Model fit statistics.
+- Chi-square statistics.
+- Degrees of freedom.
+- p-values.
+- Kaiser-Meyer-Olkin (KMO).
+- Bartlett's Test of Sphericity.
+- Factor loadings.
+- Factor variances.
+- Residual variances.
+- Average Variance Extracted (AVE).
+
+### Average Variance Extracted
+
+| Construct | AVE |
+|---|---:|
+| Student Awareness | 0.844 |
+| Perceived Ease of Use | 0.839 |
+| Perceived Security Benefits | 0.771 |
+| Perceived Usefulness | 0.783 |
+| Acceptance | 0.746 |
+
+The reported AVE values exceed 0.70, indicating substantial average variance captured by the respective constructs.
+
+Discriminant validity should also be evaluated, particularly because several constructs demonstrate very high correlations.
+
+---
+
+## 🔗 10. Correlation Analysis
+
+Pearson correlation analysis examines the strength and direction of relationships among the five research constructs.
+
+### Correlation Matrix Results
 
 | Relationship | Pearson's r | p-value |
-| ------------ | :---------: | :-----: |
-| SA ↔ PEU     |  **0.992**  |  < .001 |
-| SA ↔ PSB     |  **0.931**  |  < .001 |
-| SA ↔ PU      |  **0.983**  |  < .001 |
-| SA ↔ ACC     |  **0.943**  |  < .001 |
-| PEU ↔ PSB    |  **0.928**  |  < .001 |
-| PEU ↔ PU     |  **0.983**  |  < .001 |
-| PEU ↔ ACC    |  **0.936**  |  < .001 |
-| PSB ↔ PU     |  **0.954**  |  < .001 |
-| PSB ↔ ACC    |  **0.974**  |  < .001 |
-| PU ↔ ACC     |  **0.964**  |  < .001 |
+|---|---:|---:|
+| SA ↔ PEU | 0.992 | < .001 |
+| SA ↔ PSB | 0.931 | < .001 |
+| SA ↔ PU | 0.983 | < .001 |
+| SA ↔ ACC | 0.943 | < .001 |
+| PEU ↔ PSB | 0.928 | < .001 |
+| PEU ↔ PU | 0.983 | < .001 |
+| PEU ↔ ACC | 0.936 | < .001 |
+| PSB ↔ PU | 0.954 | < .001 |
+| PSB ↔ ACC | 0.974 | < .001 |
+| PU ↔ ACC | 0.964 | < .001 |
+
+### Key Observation
+
+The reported Pearson correlations indicate strong positive associations among the research constructs.
+
+However, correlations approaching 1.00 warrant additional examination of multicollinearity and discriminant validity before drawing strong conclusions about the distinctiveness of the constructs.
 
 ---
 
-# 🔄 Mediation Analysis
+## 🔄 11. Mediation Analysis
 
-**The research further examines **Perceived Usefulness (PU)** as a mediating variable between the predictor constructs and blockchain acceptance.**
+The research investigates **Perceived Usefulness (PU)** as a potential mediator between the predictor constructs and blockchain acceptance.
 
-```text
-       Student Awareness
-               │
-               ▼
-        ┌──────────────┐
-        │              │
-        │ Perceived    │
-        │ Usefulness   │
-        │     (PU)     │
-        │              │
-        └──────┬───────┘
-               │
-               ▼
-       Blockchain
-       Acceptance
-```
-
-**Additional paths examine:**
+### Mediation Model
 
 ```text
-SA  ───────────────► ACC
-PEU ───────────────► ACC
-PSB ───────────────► ACC
-
-SA  ─────► PU ─────► ACC
-PEU ─────► PU ─────► ACC
-PSB ─────► PU ─────► ACC
+Student Awareness ───────────────┐
+                                 │
+Perceived Ease of Use ───────────┼──► Perceived Usefulness
+                                 │             │
+Perceived Security Benefits ─────┘             │
+                                               ▼
+                                      Blockchain Acceptance
 ```
-
----
-
-# 📌 Mediation Results
 
 ### Direct Effects
 
-| Path      | Estimate | p-value |
-| --------- | :------: | :-----: |
-| SA → ACC  |   0.225  |  0.136  |
-| PEU → ACC |  -0.335  |  0.029  |
-| PSB → ACC |   0.575  |  < .001 |
+| Relationship | Estimate | p-value |
+|---|---:|---:|
+| SA → ACC | 0.225 | 0.136 |
+| PEU → ACC | -0.335 | 0.029 |
+| PSB → ACC | 0.575 | < .001 |
 
-### Indirect Effects Through PU
+### Indirect Effects Through Perceived Usefulness
 
-| Path           | Estimate | p-value |
-| -------------- | :------: | :-----: |
-| SA → PU → ACC  |   0.154  |  0.023  |
-| PEU → PU → ACC |   0.206  |  0.007  |
-| PSB → PU → ACC |   0.140  |  < .001 |
+| Relationship | Estimate | p-value |
+|---|---:|---:|
+| SA → PU → ACC | 0.154 | 0.023 |
+| PEU → PU → ACC | 0.206 | 0.007 |
+| PSB → PU → ACC | 0.140 | < .001 |
 
 ### Total Effects
 
-| Path      | Estimate | p-value |
-| --------- | :------: | :-----: |
-| SA → ACC  |   0.379  |  0.014  |
-| PEU → ACC |  -0.128  |  0.402  |
-| PSB → ACC |   0.716  |  < .001 |
+| Relationship | Estimate | p-value |
+|---|---:|---:|
+| SA → ACC | 0.379 | 0.014 |
+| PEU → ACC | -0.128 | 0.402 |
+| PSB → ACC | 0.716 | < .001 |
 
-**The mediation analysis reports these direct, indirect, and total effects with confidence intervals.**
+### Interpretation
+
+The reported mediation results suggest that perceived usefulness plays an important role in the relationships between the predictor constructs and blockchain acceptance.
+
+Notably:
+
+- Student awareness demonstrates a significant reported indirect effect through perceived usefulness.
+- Perceived ease of use demonstrates a positive indirect effect despite its negative direct effect.
+- Perceived security benefits demonstrate significant direct and indirect relationships with acceptance.
+
+These results should be interpreted using the reported confidence intervals and the assumptions of the mediation model.
 
 ---
 
-# 📈 Model Explained Variance
+## 📊 12. Model Explained Variance
 
-**The final reported model provides:**
+The final reported model provides the following R² values:
+
+| Dependent Construct | R² |
+|---|---:|
+| Blockchain Acceptance | 0.964 |
+| Perceived Usefulness | 0.981 |
+
+These values represent the proportion of variance explained by the predictors included in the respective models.
+
+Given the unusually high correlations and explained variance, further model diagnostics and validation are recommended.
+
+---
+
+## 🛠️ 13. Research Tools & Technologies
+
+| Tool / Technique | Application |
+|---|---|
+| JASP | Statistical analysis |
+| Questionnaire | Primary data collection |
+| Likert Scale | Measurement instrument |
+| Descriptive Statistics | Respondent profile and construct summaries |
+| Cronbach's Alpha | Reliability assessment |
+| Confirmatory Factor Analysis | Measurement model evaluation |
+| Pearson Correlation | Relationship analysis |
+| Mediation Analysis | Direct and indirect effect investigation |
+| CSV | Survey data storage |
+| PDF | Statistical results documentation |
+| DOCX | Research manuscript and questionnaire |
+
+---
+
+## 📁 14. Repository Structure
 
 ```text
-R² Acceptance       = 0.964
-R² Usefulness       = 0.981
+Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications/
+│
+├── 📄 Evaluating Student Awareness And Acceptance Of
+│       Block-Chain Authentication framework In IoT Applications.docx
+│
+├── 📊 My Paper Results.jasp
+│
+├── 📑 My Paper Results.pdf
+│
+├── 📋 Questionnaire.docx
+│
+├── 📊 Survey Data.csv
+│
+└── 📘 README.md
 ```
 
-**These values are reported in the final model output.**
+### Repository Contents
+
+| File | Description |
+|---|---|
+| Research Manuscript | Academic research document |
+| JASP Results | Statistical analysis project |
+| PDF Results | Exported statistical findings |
+| Questionnaire | Survey instrument |
+| Survey Data | Collected research responses |
+| README | Project documentation |
 
 ---
 
-# 🧠 Statistical Analysis Stack
+## 🏆 15. Key Research Contributions
 
-```text
-                 ┌─────────────────────┐
-                 │   Survey Dataset    │
-                 └──────────┬──────────┘
-                            ▼
-                 ┌─────────────────────┐
-                 │ Descriptive Stats   │
-                 └──────────┬──────────┘
-                            ▼
-                 ┌─────────────────────┐
-                 │ Reliability Test    │
-                 │   Cronbach's α      │
-                 └──────────┬──────────┘
-                            ▼
-                 ┌─────────────────────┐
-                 │ CFA / Measurement   │
-                 │       Model         │
-                 └──────────┬──────────┘
-                            ▼
-                 ┌─────────────────────┐
-                 │ Correlation Matrix  │
-                 └──────────┬──────────┘
-                            ▼
-                 ┌─────────────────────┐
-                 │ Mediation Analysis  │
-                 └──────────┬──────────┘
-                            ▼
-                 ┌─────────────────────┐
-                 │ Research Findings   │
-                 └─────────────────────┘
-```
+This research contributes an empirical examination of student perceptions regarding blockchain-based authentication in IoT applications.
+
+Its main contributions include:
+
+- A structured questionnaire covering five research constructs.
+- Empirical investigation using 100 valid responses.
+- Reliability assessment of the measurement scales.
+- Confirmatory Factor Analysis of the proposed constructs.
+- Examination of relationships through Pearson correlation.
+- Investigation of perceived usefulness as a mediating variable.
+- Statistical evidence concerning user acceptance of blockchain-based authentication.
 
 ---
 
-# 🛠️ Tools & Technologies
+## ⚠️ 16. Research Limitations
 
-| Tool / Technology         | Application              |
-| ------------------------- | ------------------------ |
-| 📊 Statistical Analysis   | Quantitative research    |
-| 📋 Likert-Scale Survey    | Data collection          |
-| 🔬 CFA                    | Measurement validation   |
-| 📈 Pearson Correlation    | Relationship analysis    |
-| 🔄 Mediation Analysis     | Indirect-effect analysis |
-| 📊 Descriptive Statistics | Sample characterization  |
-| 🧪 Cronbach's Alpha       | Reliability assessment   |
-| 📐 Structural Modeling    | Path analysis            |
+The findings should be interpreted within the scope of the research design.
 
----
+Important limitations include:
 
-# 📁 Repository Structure
-
-```text
-📦 Blockchain-IoT-Authentication-Research
-│
-├── 📄 Research Paper / Manuscript
-│
-├── 📊 Statistical Results
-│
-├── 📋 Questionnaire
-│
-├── 📈 CFA Results
-│
-├── 🔄 Mediation Analysis
-│
-├── 📑 Dataset
-│
-└── 📄 README.md
-```
+- The sample consists of 100 valid responses.
+- Respondents are students rather than a representative sample of all IoT users.
+- The research measures perceptions and acceptance, not actual technical adoption.
+- The questionnaire uses self-reported responses.
+- Cross-sectional survey data cannot independently establish causality.
+- High correlations among constructs require additional discriminant-validity and multicollinearity assessment.
+- The findings may not generalize to other populations or application domains.
 
 ---
 
-# 📚 Research Outputs
+## 🔭 17. Future Research Directions
 
-**This repository provides supporting research material including:**
+Potential extensions include:
 
-```text
-📋 Research Questionnaire
-        │
-        ▼
-📊 Survey Dataset
-        │
-        ▼
-📈 Descriptive Statistics
-        │
-        ▼
-🧪 Reliability Analysis
-        │
-        ▼
-🔬 Confirmatory Factor Analysis
-        │
-        ▼
-🔗 Correlation Analysis
-        │
-        ▼
-🔄 Mediation Analysis
-        │
-        ▼
-📄 Research Paper
-```
+- Increase the sample size.
+- Collect responses from multiple universities.
+- Include IT professionals and industry participants.
+- Compare blockchain-based authentication with traditional mechanisms.
+- Examine privacy, trust, and perceived risk.
+- Investigate actual adoption behavior.
+- Apply longitudinal research designs.
+- Validate the conceptual model using independent samples.
+- Explore technical performance alongside user acceptance.
 
 ---
 
-# 🎓 Research Contribution
+## 👨‍💻 18. About the Researcher
 
-The study combines **technology acceptance perspectives** with the security context of **blockchain-enabled IoT authentication**.
+### Shahid Azam
 
-**The analysis specifically investigates how:**
-
-* Awareness relates to acceptance.
-* Ease of use relates to acceptance.
-* Security benefits relate to acceptance.
-* Usefulness relates to acceptance.
-* Perceived usefulness functions within the examined mediation relationships.
-
-**The research therefore provides an empirical framework for examining user perceptions surrounding blockchain authentication in IoT environments.**
-
----
-
-# 🔮 Future Research Directions
-
-**Potential extensions of this research include:**
-
-* Increasing the sample size.
-* Including participants from multiple universities or regions.
-* Testing the framework with industry professionals.
-* Comparing different IoT application domains.
-* Incorporating additional technology-acceptance variables.
-* Examining behavioral intention and actual adoption.
-* Applying longitudinal research designs.
-* Comparing blockchain authentication with conventional authentication mechanisms.
-* Evaluating technical performance alongside user acceptance.
-* Integrating privacy, trust, and perceived risk into future models.
-
----
-
-# 📌 Research Snapshot
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════╗
-║        🔐 BLOCKCHAIN + IoT SECURITY         ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║       👥 Participants       100              ║
-║       📊 Constructs         5                ║
-║       📋 Measurement Items  25               ║
-║       📈 Likert Scale       1–5              ║
-║       🧪 Reliability        Cronbach's α     ║
-║       🔬 Validation         CFA              ║
-║       🔗 Relationships      Correlation      ║
-║       🔄 Mechanism          Mediation        ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# 👨‍💻 Author
-
-## Shahid Azam
-
-**MS Computer Science Student**
-**Specialization in Artificial Intelligence**
+**MS Computer Science | Artificial Intelligence**
 
 Institute of Management Sciences, Peshawar, Pakistan
 
-I enjoy building complete software systems—from networking and operating system concepts to backend architecture, machine learning, and distributed systems.
+Research interests:
 
-- 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
-- 🏆 **Achievements:** Designed and executed 30+ machine learning and data visualization projects delivering actionable insights
-- 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
-- 📬 **Contact:** shahidazam2020@gmail.com
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" height="18" valign="middle" /> WhatsApp: <a href="https://wa.me/+923412772594" target="_blank">Chat on WhatsApp</a>
+- Artificial Intelligence and Machine Learning
+- Blockchain Technology
+- Internet of Things
+- Cybersecurity
+- Data Analytics
+- Academic and Quantitative Research
 
+### Connect With Me
 
-📊 Data Analysis • 🔬 Research • 🤖 Machine Learning • 🔐 Cybersecurity • 🌐 IoT
-
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/shahidazam2020-oss">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:shahidazam2020@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+- 💻 GitHub: https://github.com/shahidazam2020-oss
+- 🔗 LinkedIn: https://www.linkedin.com/in/shahid-azam-mughal-787b58235/
+- 📚 ResearchGate: https://www.researchgate.net/profile/Shahid-Azam-5
+- 🆔 ORCID: https://orcid.org/0009-0001-6825-8863
+- 📧 Email: shahidazam2020@gmail.com
 
 ---
 
-# 📜 Disclaimer
+## 📚 19. Research Use & Citation
 
-This repository contains research materials and statistical outputs associated with an academic research study. The statistical results presented in this README reflect the supplied research outputs and should be interpreted within the study's sample, methodology, measurement design, and stated limitations.
+Researchers and students may explore the repository materials for academic learning and further investigation.
+
+If using the questionnaire, dataset, or statistical findings, please provide appropriate attribution and check the relevant permissions.
+
+**Citation information:** Add the final publication details, DOI, or formal citation here if the manuscript is published.
+
+---
+
+## 📜 20. Disclaimer
+
+This repository contains academic research materials and statistical results concerning student awareness and acceptance of blockchain-based authentication in IoT applications.
+
+The findings reflect the collected sample and the applied research methodology. They should not be interpreted as proof of technical security effectiveness or actual adoption of blockchain authentication systems.
 
 ---
 
 <div align="center">
 
-## 🔐 Blockchain × 🌐 IoT × 📊 Research
+# 🔐 Blockchain × IoT × Research
 
-### **From User Perception → Statistical Evidence → IoT Security Research**
+### Understanding Technology Acceptance Through Empirical Evidence
 
-</div>
+⭐ If you find this research useful, consider starring the repository.
 
-
----
-# ⭐ Repository
-
-<div align="center">
-
-### If you find this research useful:
-
-**⭐ Star the repository**
-**🍴 Fork the project**
-**📚 Cite the research**
-**💡 Build upon the findings**
+**Research • Analyze • Validate • Contribute**
 
 </div>
-
----
-
-# ⭐ Support
-
-If you find this repository useful for learning Machine Learning, consider giving it a ⭐.
-
-Your feedback, suggestions, and contributions are welcome.
