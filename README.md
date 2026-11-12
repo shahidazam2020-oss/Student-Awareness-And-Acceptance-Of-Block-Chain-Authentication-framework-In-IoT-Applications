@@ -258,7 +258,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 
 ### Interpretation
 
-All five constructs demonstrate high reported internal consistency, with Cronbach's Alpha values above 0.90.
+**All five constructs demonstrate high reported internal consistency, with Cronbach's Alpha values above 0.90.**
 
 These results indicate strong internal consistency within the questionnaire scales. They should be interpreted alongside factor validity and the possibility of overlapping measurement items.
 
