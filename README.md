@@ -99,7 +99,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 
 ## 🏗️ 4. Conceptual Research Framework
 
-The research examines the relationships between student awareness, perceived ease of use, perceived security benefits, perceived usefulness, and blockchain acceptance.
+**The research examines the relationships between student awareness, perceived ease of use, perceived security benefits, perceived usefulness, and blockchain acceptance.**
 
 ### Proposed Research Relationships
 
