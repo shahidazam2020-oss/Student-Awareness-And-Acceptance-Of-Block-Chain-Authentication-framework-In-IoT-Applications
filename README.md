@@ -320,7 +320,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 
 **The reported Pearson correlations indicate strong positive associations among the research constructs.**
 
-However, correlations approaching 1.00 warrant additional examination of multicollinearity and discriminant validity before drawing strong conclusions about the distinctiveness of the constructs.
+**However, correlations approaching 1.00 warrant additional examination of multicollinearity and discriminant validity before drawing strong conclusions about the distinctiveness of the constructs.**
 
 ---
 
