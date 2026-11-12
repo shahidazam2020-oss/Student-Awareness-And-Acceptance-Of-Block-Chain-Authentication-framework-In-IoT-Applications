@@ -268,7 +268,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 
 **Confirmatory Factor Analysis is used to examine the measurement structure of the proposed research constructs.**
 
-The analysis considers:
+**The analysis considers:**
 
 - Model fit statistics.
 - Chi-square statistics.
