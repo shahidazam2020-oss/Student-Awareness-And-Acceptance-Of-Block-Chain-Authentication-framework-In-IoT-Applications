@@ -293,7 +293,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 
 **The reported AVE values exceed 0.70, indicating substantial average variance captured by the respective constructs.**
 
-Discriminant validity should also be evaluated, particularly because several constructs demonstrate very high correlations.
+**Discriminant validity should also be evaluated, particularly because several constructs demonstrate very high correlations.**
 
 ---
 
