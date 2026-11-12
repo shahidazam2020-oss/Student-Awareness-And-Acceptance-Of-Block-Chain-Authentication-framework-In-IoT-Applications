@@ -244,7 +244,7 @@ The study includes 100 valid responses.
 
 ## 🧪 8. Reliability Analysis
 
-Cronbach's Alpha is used to assess the internal consistency of the five-item measurement scales.
+**Cronbach's Alpha is used to assess the internal consistency of the five-item measurement scales.**
 
 ### Reliability Results
 
