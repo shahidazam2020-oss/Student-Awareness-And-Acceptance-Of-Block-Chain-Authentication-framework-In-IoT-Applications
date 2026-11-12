@@ -71,7 +71,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 
 ## 🧩 3. Research Constructs
 
-The study investigates five major constructs.
+**The study investigates five major constructs.**
 
 | Construct | Code | Description |
 |---|---|---|
