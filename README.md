@@ -445,7 +445,7 @@ Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-
 
 ## 🏆 15. Key Research Contributions
 
-This research contributes an empirical examination of student perceptions regarding blockchain-based authentication in IoT applications.
+**This research contributes an empirical examination of student perceptions regarding blockchain-based authentication in IoT applications.**
 
 Its main contributions include:
 
