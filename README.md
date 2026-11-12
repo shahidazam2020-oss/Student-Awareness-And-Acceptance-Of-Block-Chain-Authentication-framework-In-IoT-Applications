@@ -374,7 +374,7 @@ Notably:
 - Perceived ease of use demonstrates a positive indirect effect despite its negative direct effect.
 - Perceived security benefits demonstrate significant direct and indirect relationships with acceptance.
 
-These results should be interpreted using the reported confidence intervals and the assumptions of the mediation model.
+**These results should be interpreted using the reported confidence intervals and the assumptions of the mediation model.**
 
 ---
 
