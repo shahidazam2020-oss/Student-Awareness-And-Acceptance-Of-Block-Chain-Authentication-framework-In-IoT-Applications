@@ -85,7 +85,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 
 **The questionnaire contains 25 measurement items distributed across five constructs.**
 
-Each construct is measured using five items on a five-point Likert scale:
+**Each construct is measured using five items on a five-point Likert scale:**
 
 | Score | Response |
 |---:|---|
