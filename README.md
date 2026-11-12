@@ -299,7 +299,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 
 ## 🔗 10. Correlation Analysis
 
-Pearson correlation analysis examines the strength and direction of relationships among the five research constructs.
+**Pearson correlation analysis examines the strength and direction of relationships among the five research constructs.**
 
 ### Correlation Matrix Results
 
