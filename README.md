@@ -461,7 +461,7 @@ Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-
 
 ## ⚠️ 16. Research Limitations
 
-The findings should be interpreted within the scope of the research design.
+**The findings should be interpreted within the scope of the research design.**
 
 Important limitations include:
 
