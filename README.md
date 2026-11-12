@@ -128,7 +128,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 
 ## 👥 5. Respondent Profile
 
-The study includes 100 valid responses.
+**The study includes 100 valid responses.**
 
 ### 🎓 Level of Study
 
