@@ -122,7 +122,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
           BLOCKCHAIN ACCEPTANCE (ACC)
 ```
 
-The statistical analysis investigates both direct relationships with acceptance and indirect relationships through perceived usefulness.
+**The statistical analysis investigates both direct relationships with acceptance and indirect relationships through perceived usefulness.**
 
 ---
 
