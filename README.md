@@ -291,7 +291,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 | Perceived Usefulness | 0.783 |
 | Acceptance | 0.746 |
 
-The reported AVE values exceed 0.70, indicating substantial average variance captured by the respective constructs.
+**The reported AVE values exceed 0.70, indicating substantial average variance captured by the respective constructs.**
 
 Discriminant validity should also be evaluated, particularly because several constructs demonstrate very high correlations.
 
