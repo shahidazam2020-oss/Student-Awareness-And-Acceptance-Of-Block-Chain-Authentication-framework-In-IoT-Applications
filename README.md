@@ -228,7 +228,7 @@ The study includes 100 valid responses.
 
 ## 📈 7. Descriptive Statistical Analysis
 
-Descriptive statistics summarize the responses across the five research constructs.
+**Descriptive statistics summarize the responses across the five research constructs.**
 
 | Construct | Mean | Standard Deviation |
 |---|---:|---:|
