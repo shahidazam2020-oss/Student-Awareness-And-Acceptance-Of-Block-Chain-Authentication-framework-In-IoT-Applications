@@ -238,7 +238,7 @@ The study includes 100 valid responses.
 | Perceived Usefulness | 3.034 | 1.295 |
 | Acceptance | 3.080 | 1.280 |
 
-These values provide an overview of respondents' perceptions across the research dimensions.
+**These values provide an overview of respondents' perceptions across the research dimensions.**
 
 ---
 
