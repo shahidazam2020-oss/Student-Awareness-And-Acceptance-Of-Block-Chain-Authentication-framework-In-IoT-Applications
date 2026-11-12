@@ -380,7 +380,7 @@ Notably:
 
 ## 📊 12. Model Explained Variance
 
-The final reported model provides the following R² values:
+**The final reported model provides the following R² values:**
 
 | Dependent Construct | R² |
 |---|---:|
