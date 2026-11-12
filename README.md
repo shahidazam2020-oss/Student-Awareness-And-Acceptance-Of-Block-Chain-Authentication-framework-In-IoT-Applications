@@ -477,7 +477,7 @@ Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-
 
 ## 🔭 17. Future Research Directions
 
-Potential extensions include:
+**Potential extensions include:**
 
 - Increase the sample size.
 - Collect responses from multiple universities.
