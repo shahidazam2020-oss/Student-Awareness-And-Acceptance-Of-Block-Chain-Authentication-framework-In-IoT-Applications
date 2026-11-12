@@ -366,7 +366,7 @@ Perceived Security Benefits ─────┘             │
 
 ### Interpretation
 
-The reported mediation results suggest that perceived usefulness plays an important role in the relationships between the predictor constructs and blockchain acceptance.
+**The reported mediation results suggest that perceived usefulness plays an important role in the relationships between the predictor constructs and blockchain acceptance.**
 
 Notably:
 
