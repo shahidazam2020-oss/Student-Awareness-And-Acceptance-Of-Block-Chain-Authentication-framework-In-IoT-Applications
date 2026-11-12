@@ -520,7 +520,7 @@ Research interests:
 
 ## 📚 19. Research Use & Citation
 
-Researchers and students may explore the repository materials for academic learning and further investigation.
+**Researchers and students may explore the repository materials for academic learning and further investigation.**
 
 If using the questionnaire, dataset, or statistical findings, please provide appropriate attribution and check the relevant permissions.
 
