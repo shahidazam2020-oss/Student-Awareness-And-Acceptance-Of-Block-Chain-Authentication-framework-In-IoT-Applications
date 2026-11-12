@@ -530,7 +530,7 @@ Research interests:
 
 ## 📜 20. Disclaimer
 
-This repository contains academic research materials and statistical results concerning student awareness and acceptance of blockchain-based authentication in IoT applications.
+**This repository contains academic research materials and statistical results concerning student awareness and acceptance of blockchain-based authentication in IoT applications.**
 
 The findings reflect the collected sample and the applied research methodology. They should not be interpreted as proof of technical security effectiveness or actual adoption of blockchain authentication systems.
 
