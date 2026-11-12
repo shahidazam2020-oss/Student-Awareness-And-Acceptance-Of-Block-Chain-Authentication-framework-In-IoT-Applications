@@ -266,7 +266,7 @@ The study uses questionnaire-based data collection and statistical analysis to i
 
 ## 🔍 9. Confirmatory Factor Analysis (CFA)
 
-Confirmatory Factor Analysis is used to examine the measurement structure of the proposed research constructs.
+**Confirmatory Factor Analysis is used to examine the measurement structure of the proposed research constructs.**
 
 The analysis considers:
 
