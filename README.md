@@ -522,7 +522,7 @@ Research interests:
 
 **Researchers and students may explore the repository materials for academic learning and further investigation.**
 
-If using the questionnaire, dataset, or statistical findings, please provide appropriate attribution and check the relevant permissions.
+**If using the questionnaire, dataset, or statistical findings, please provide appropriate attribution and check the relevant permissions.**
 
 **Citation information:** Add the final publication details, DOI, or formal citation here if the manuscript is published.
 
