@@ -178,7 +178,7 @@ The study includes 100 valid responses.
 
 ## 🔬 6. Research Methodology
 
-The research follows a structured quantitative methodology.
+**The research follows a structured quantitative methodology.**
 
 ```text
              RESEARCH PROBLEM
