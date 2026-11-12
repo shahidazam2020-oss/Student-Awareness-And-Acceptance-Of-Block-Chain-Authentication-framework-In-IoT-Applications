@@ -387,7 +387,7 @@ Notably:
 | Blockchain Acceptance | 0.964 |
 | Perceived Usefulness | 0.981 |
 
-These values represent the proportion of variance explained by the predictors included in the respective models.
+**These values represent the proportion of variance explained by the predictors included in the respective models.**
 
 Given the unusually high correlations and explained variance, further model diagnostics and validation are recommended.
 
