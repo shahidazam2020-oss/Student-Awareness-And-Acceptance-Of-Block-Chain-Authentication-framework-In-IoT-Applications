@@ -463,7 +463,7 @@ Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-
 
 **The findings should be interpreted within the scope of the research design.**
 
-Important limitations include:
+**Important limitations include:**
 
 - The sample consists of 100 valid responses.
 - Respondents are students rather than a representative sample of all IoT users.
