@@ -389,7 +389,7 @@ Notably:
 
 **These values represent the proportion of variance explained by the predictors included in the respective models.**
 
-Given the unusually high correlations and explained variance, further model diagnostics and validation are recommended.
+**Given the unusually high correlations and explained variance, further model diagnostics and validation are recommended.**
 
 ---
 
