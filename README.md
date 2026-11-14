@@ -24,6 +24,7 @@
 **Investigating the factors influencing students' awareness, perceptions, and acceptance of blockchain-based authentication mechanisms in Internet of Things (IoT) applications.**
 
 [![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/Data-Visualization?style=social)](https://github.com/shahidazam2020-oss/Data-Visualization/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/Data-Visualization?style=social)](https://github.com/shahidazam2020-oss/Data-Visualization/forks)
 
 </div>
 
