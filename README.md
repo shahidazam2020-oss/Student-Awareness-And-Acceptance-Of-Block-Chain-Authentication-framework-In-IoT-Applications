@@ -1,5 +1,16 @@
 <div align="center">
 
+  <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications?style=social" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications?style=flat-square" alt="GitHub Last Commit">
+  </a>
+
+  ---
 # 🔐 Blockchain-Based Authentication for IoT Applications
 
 ### A Quantitative Research Study on Student Awareness, Security Perceptions, Usefulness & Technology Acceptance
@@ -23,16 +34,6 @@
 
 **Investigating the factors influencing students' awareness, perceptions, and acceptance of blockchain-based authentication mechanisms in Internet of Things (IoT) applications.**
 
-  <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications/stargazers">
-    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications?style=social" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications/forks">
-    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications?style=social" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications/commits">
-    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Student-Awareness-And-Acceptance-Of-Block-Chain-Authentication-framework-In-IoT-Applications?style=flat-square" alt="GitHub Last Commit">
-  </a>
-</p>
 
 </div>
 
